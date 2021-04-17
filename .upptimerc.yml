@@ -29,7 +29,7 @@ status-website:
   name: SoBot
   introTitle: "Voici le site de Uptime de SoBot, ici vous pourez voir à touts moment l'état de chaques site de SoBot"
   introMessage: 
-  them: ocean
+  theme: dark
   navbar:
     - title: Status
       href: /Uptime
