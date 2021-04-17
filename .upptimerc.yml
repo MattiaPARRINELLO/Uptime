@@ -28,8 +28,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: SoBot
   introTitle: "Voici le site de Uptime de SoBot, ici vous pourez voir à touts moment l'état de chaques site de SoBot"
-  introMessage: 
-  theme: dark
+  introMessage: SALUT
   navbar:
     - title: Status
       href: /Uptime
