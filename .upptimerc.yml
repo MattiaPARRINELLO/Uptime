@@ -4,21 +4,19 @@ repo: Uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
-  - name: TCP ping
-    url: 1.1.1.1
+  - name: SoBot
+    url: https://sobot.fr
+  - name: Bot Hosting
+    url: $RASP
+  - name: Discord
+    url: https://discord.sobot.fr
+  - name: DataBase 1
+    url: $DB1
+  - name: DataBase 2
+    url: $DB2
+  - name: Control Panel
+    url: $CP
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
