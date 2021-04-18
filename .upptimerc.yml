@@ -32,63 +32,63 @@ status-website:
       href: /Uptime
     - title: SoBot
       href: https://sobot.fr
-i18n:
-  activeIncidents: Problèmes actifs
-  allSystemsOperational: Tous les systèmes sont opérationels
-  incidentReport: "Incident N°$NUMBER infos →"
-  activeIncidentSummary: Ouvert à $DATE avec $POSTS posts
-  incidentTitle: Incident N°$NUMBER Details
-  incidentDetails: "Détails de l'incident"
-  incidentFixed: Réparé
-  incidentOngoing: En cours
-  incidentOpenedAt: Ouvert à
-  incidentClosedAt: Fermé à 
-  incidentSubscribe: "S'inscrire aux mises à jour"
-  incidentViewOnGitHub: Voir sur GitHub
-  incidentCommentSummary: Posté à $DATE par $AUTHOR
-  incidentBack: ← Retours à tous les incidents
-  pastIncidents: Incidents passé
-  pastIncidentsResolved: Résolus en $MINUTES minutes avec $POSTS posts
-  liveStatus: Statut en direct
-  overallUptime: "Disponibilité : $UPTIME"
-  overallUptimeTitle: Disponibilité
-  averageResponseTime: "Temps de réponse moyen: $TIMEms"
-  averageResponseTimeTitle: Temps de réponse
-  sevelDayResponseTime: Temps de réponse au cours des 7 derniers jours
-  responseTimeMs: Temps de réponse (ms)
-  up: ON
-  down: OFF
-  degraded: Dégradé
-  ms: ms
-  loading: Chargement
-  navGitHub: GitHub
-  footer:
-  rateLimitExceededTitle: Dépassement e la limite
-  rateLimitExceededIntro: Vous avez dépassez le nombre de requètes que vous pouvez faire à ce site en une heure, donc vous devez attendre avant de pouvoir acceder à nouveau au site.
-  rateLimitExceededWhatDoesErrorMean: Que signifie cette erreur ?
-  rateLimitExceededErrorMeaning: Ce site web utilise l'API GitHub pour acceder en à des information en direct sur leurs site. Par default? GitHub autorise chaque IP 60 requetes par heure, que vous avez consomer.
-  rateLimitExceededErrorHowCanFix: Comment le réparer ?
-  rateLimitExceededErrorFix: Vous pouvez attendre une heure pour que votre interdiction soit levée. Sinon vous pouvez ajouter votre GitHub Personal Access Token qui vas vous donner en plus 5000 requetes pas heure.
-  rateLimitExceededGeneratePAT: Apprenez comment générer un Github Personal Acces Token
-  rateLimitExceededHasSet: Vous avez déjà un Token ajouté
-  rateLimitExceededRemoveToken: Retirer le Token 
-  rateLimitExceededGitHubPAT: GitHub Personal Access Token
-  rateLimitExceededCopyPastePAT: Copier-Coller vote Token
-  rateLimitExceededSaveToken: Sauvegarder le Token
-  errorTitle: Une erreur c'est produite
-  errorIntro: Une erreur s'est produite lors de la tentative d'obtention des derniers détails d'état.
-  errorText: Réésayer dans quelques instants
-  errorHome: Aller sur la page d'acceuil
-  pastScheduledMaintenance: Maintenance planifiée antérieure
-  scheduledMaintenance: Maintenace planifiée
-  scheduledMaintenanceSummaryStarted: Démarré le $DATE pour $DURATION minutes
-  scheduledMaintenanceSummaryStarts: Démare le  $DATE pour $DURATION minutes
-  startedAt: Commencé le
-  startsAt: Commence le
-  duration: Durée
-  durationMin: $DURATION minutes
-  incidentCompleted: Complétée
-  incidentScheduled: Planifié
+#i18n:
+#  activeIncidents: Problèmes actifs
+ # allSystemsOperational: Tous les systèmes sont opérationels
+ # incidentReport: "Incident N°$NUMBER infos →"
+ # activeIncidentSummary: Ouvert à $DATE avec $POSTS posts
+ # incidentTitle: Incident N°$NUMBER Details
+ # incidentDetails: "Détails de l'incident"
+ # incidentFixed: Réparé
+ # incidentOngoing: En cours
+ # incidentOpenedAt: Ouvert à
+ # incidentClosedAt: Fermé à 
+ # incidentSubscribe: "S'inscrire aux mises à jour"
+#  incidentViewOnGitHub: Voir sur GitHub
+  #incidentCommentSummary: Posté à $DATE par $AUTHOR
+ # incidentBack: ← Retours à tous les incidents
+ # pastIncidents: Incidents passé
+  #pastIncidentsResolved: Résolus en $MINUTES minutes avec $POSTS posts
+ # liveStatus: Statut en direct
+ # overallUptime: "Disponibilité : $UPTIME"
+ # overallUptimeTitle: Disponibilité
+  #averageResponseTime: "Temps de réponse moyen: $TIMEms"
+  #averageResponseTimeTitle: Temps de réponse
+  #sevelDayResponseTime: Temps de réponse au cours des 7 derniers jours
+  #responseTimeMs: Temps de réponse (ms)
+  #up: ON
+  #down: OFF
+ # degraded: Dégradé
+#  ms: ms
+#  loading: Chargement
+ # navGitHub: GitHub
+ # footer:
+ # rateLimitExceededTitle: Dépassement e la limite
+ # rateLimitExceededIntro: Vous avez dépassez le nombre de requètes que vous pouvez faire à ce site en une heure, donc vous devez attendre avant de pouvoir acceder à nouveau au site.
+#  rateLimitExceededWhatDoesErrorMean: Que signifie cette erreur ?
+ # rateLimitExceededErrorMeaning: Ce site web utilise l'API GitHub pour acceder en à des information en direct sur leurs site. Par default? GitHub autorise chaque IP 60 requetes par heure, que vous avez consomer.
+#  rateLimitExceededErrorHowCanFix: Comment le réparer ?
+ # rateLimitExceededErrorFix: Vous pouvez attendre une heure pour que votre interdiction soit levée. Sinon vous pouvez ajouter votre GitHub Personal Access Token qui vas vous donner en plus 5000 requetes pas heure.
+#  rateLimitExceededGeneratePAT: Apprenez comment générer un Github Personal Acces Token
+ # rateLimitExceededHasSet: Vous avez déjà un Token ajouté
+ # rateLimitExceededRemoveToken: Retirer le Token 
+ # rateLimitExceededGitHubPAT: GitHub Personal Access Token
+ # rateLimitExceededCopyPastePAT: Copier-Coller vote Token
+ # rateLimitExceededSaveToken: Sauvegarder le Token
+#  errorTitle: Une erreur c'est produite
+#  errorIntro: Une erreur s'est produite lors de la tentative d'obtention des derniers détails d'état.
+#  errorText: Réésayer dans quelques instants
+ # errorHome: Aller sur la page d'acceuil
+#  pastScheduledMaintenance: Maintenance planifiée antérieure
+ # scheduledMaintenance: Maintenace planifiée
+#  scheduledMaintenanceSummaryStarted: Démarré le $DATE pour $DURATION minutes
+ # scheduledMaintenanceSummaryStarts: Démare le  $DATE pour $DURATION minutes
+ # startedAt: Commencé le
+  #startsAt: Commence le
+  #duration: Durée
+  #durationMin: $DURATION minutes
+  #incidentCompleted: Complétée
+  #incidentScheduled: Planifié
   
 
 # Upptime also supports notifications, assigning issues, and more
