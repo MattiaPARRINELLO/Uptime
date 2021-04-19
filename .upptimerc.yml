@@ -74,13 +74,40 @@ i18n:
   durationMin: "$DURATION minutes"
   incidentCompleted: "Complétée"
   incidentScheduled: "Planifié"
+    url: "URL"
+  status: "Statut"
+  history: "Historique"
+  responseTime: "Temps de réponse"
+  uptime: "Uptime"
+  up: "🟩 Up"
+  degraded: "🟨 Dégradé"
+  down: "🟥 Down"
+  responseTimeGraphAlt: "Graphique du temps de réponse"
+  ms: "ms"
+  responseTime: "Temps de réponse"
+  responseTimeDay: "Temps de réponse des 24 dérnières heures"
+  responseTimeWeek: "Temps de réponse des 7 dérniers jours"
+  responseTimeMonth: "Temps de réponse des 30 dérniers jour"
+  responseTimeYear: "Temps de réponse de cette année"
+  uptime: "Disponibilité"
+  uptimeDay: "Disponibilité des 24 dérnières heures"
+  uptimeWeek: "Disponibilité des 7 dérnières jours"
+  uptimeMonth: "Disponibilité des 7 dérnières jours"
+  uptimeYear: "Disponibilité de cette année"
+  liveStatus: "Statut en direct"
+  liveStatusHtmlComment: "<!--live status-->"
+  allSystemsOperational: "🟩 Tout les systèmes sont oppérationels"
+  degradedPerformance: "🟨 Performance dégradée"
+  completeOutage: "🟥 Complètement Down"
+  partialOutage: "🟧 Partièlement Down"
 
 status-website:
+  theme: ocean
   # Add your custom domain below, or remove the next line if you don't have a domain
   #cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /Uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://i.imgur.com/b8Oj12U.png
   name: SoBot
   introTitle: "Voici le site de Uptime de SoBot, ici vous pourez voir à touts moment l'état de chaques site de SoBot"
   introMessage: SALUT
