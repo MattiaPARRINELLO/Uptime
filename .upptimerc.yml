@@ -7,7 +7,10 @@ sites:
   - name: SoBot
     url: https://sobot.fr
   - name: Bot Hosting
-    url: $RASP
+    url: https://sobot.ddns.net
+    __dangerous__disable_verify_peer: true
+    __dangerous__disable_verify_host: true
+    __dangerous__insecure: true
   - name: Discord
     url: https://discord.sobot.fr
   - name: DataBase 1
@@ -16,6 +19,10 @@ sites:
     url: $DB2
   - name: Control Panel
     url: $CP
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 401
 
 i18n:
   activeIncidents: "Problèmes actifs"
