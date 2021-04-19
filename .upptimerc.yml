@@ -90,7 +90,6 @@ i18n:
   uptimeMonth: "Disponibilité des 7 dérnières jours"
   uptimeYear: "Disponibilité de cette année"
   liveStatusHtmlComment: "<!--live status-->"
-  allSystemsOperational: "🟩 Tout les systèmes sont oppérationels"
   degradedPerformance: "🟨 Performance dégradée"
   completeOutage: "🟥 Complètement Down"
   partialOutage: "🟧 Partièlement Down"
