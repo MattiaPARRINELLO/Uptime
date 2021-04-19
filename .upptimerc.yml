@@ -78,7 +78,6 @@ i18n:
   url: "URL"
   status: "Statut"
   history: "Historique"
-  responseTime: "Temps de réponse"
   responseTimeGraphAlt: "Graphique du temps de réponse"
   responseTime: "Temps de réponse"
   responseTimeDay: "Temps de réponse des 24 dérnières heures"
