@@ -74,7 +74,7 @@ i18n:
   durationMin: "$DURATION minutes"
   incidentCompleted: "Complétée"
   incidentScheduled: "Planifié"
-    url: "URL"
+  url: "URL"
   status: "Statut"
   history: "Historique"
   responseTime: "Temps de réponse"
