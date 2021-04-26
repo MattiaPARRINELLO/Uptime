@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 754,
     "timeDay": 591,
-    "timeWeek": 762,
+    "timeWeek": 767,
     "timeMonth": 754,
     "timeYear": 754,
     "dailyMinutesDown": {}
@@ -22,7 +22,7 @@
     "url": "http://sobot.ddns.net",
     "icon": "https://favicons.githubusercontent.com/sobot.ddns.net",
     "slug": "bot-hosting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1066,
     "timeDay": 1070,
-    "timeWeek": 1099,
+    "timeWeek": 1103,
     "timeMonth": 1066,
     "timeYear": 1066,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 735,
     "timeDay": 610,
-    "timeWeek": 770,
+    "timeWeek": 779,
     "timeMonth": 735,
     "timeYear": 735,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 777,
     "timeDay": 582,
-    "timeWeek": 807,
+    "timeWeek": 824,
     "timeMonth": 777,
     "timeYear": 777,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 661,
     "timeDay": 684,
-    "timeWeek": 689,
+    "timeWeek": 699,
     "timeMonth": 661,
     "timeYear": 661,
     "dailyMinutesDown": {}
