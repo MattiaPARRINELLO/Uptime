@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1079,
-    "timeDay": 840,
-    "timeWeek": 1059,
-    "timeMonth": 1189,
-    "timeYear": 1105,
+    "time": 1080,
+    "timeDay": 1120,
+    "timeWeek": 1032,
+    "timeMonth": 1180,
+    "timeYear": 1107,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 263,
+    "timeYear": 266,
     "dailyMinutesDown": {}
   },
   {
@@ -49,7 +49,7 @@
     "time": 1039,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 914,
+    "timeMonth": 938,
     "timeYear": 1013,
     "dailyMinutesDown": {}
   },
@@ -58,16 +58,16 @@
     "url": "$DB1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "data-base-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 727,
-    "timeDay": 697,
-    "timeWeek": 684,
-    "timeMonth": 704,
+    "timeDay": 736,
+    "timeWeek": 683,
+    "timeMonth": 702,
     "timeYear": 725,
     "dailyMinutesDown": {}
   },
@@ -84,8 +84,8 @@
     "uptimeYear": "100.00%",
     "time": 831,
     "timeDay": 0,
-    "timeWeek": 724,
-    "timeMonth": 832,
+    "timeWeek": 656,
+    "timeMonth": 810,
     "timeYear": 834,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 599,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 633,
+    "timeMonth": 605,
     "timeYear": 594,
     "dailyMinutesDown": {}
   }
