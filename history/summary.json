@@ -58,7 +58,7 @@
     "url": "$DB1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "data-base-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 728,
     "timeDay": 825,
-    "timeWeek": 704,
+    "timeWeek": 706,
     "timeMonth": 716,
     "timeYear": 727,
     "dailyMinutesDown": {}
